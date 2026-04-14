@@ -1,0 +1,15 @@
+# Node
+node_modules/
+dist/
+.vite/
+
+# Go
+bin/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Editor
+.vscode/

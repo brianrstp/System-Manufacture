@@ -1,0 +1,14 @@
+{
+  "name": "manufacture",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "backend": "cd backend && go run main.go",
+    "frontend": "cd frontend && npm run dev",
+    "dev": "concurrently --kill-others-on-fail \"cd backend && go run main.go\" \"cd frontend && npm run dev\"",
+    "start": "npm run dev"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.0"
+  }
+}
