@@ -6,7 +6,7 @@ Dokumentasi ini membantu kamu menjalankan aplikasi, memahami fitur, serta menggu
 ## 👤 Tentang Saya
 | Nama | Peran | Kontak |
 | --- | --- | --- |
-| Brian Restu Pratiwa | Hamba Allah | [brestu352@gmail.com](mailto:brestu352@gmail.com) • [BuySomeCoffee](https://teer.id/brianrstp)) |
+| Brian Restu Pratiwa | Hamba Allah | [brestu352@gmail.com](mailto:brestu352@gmail.com) • [BuySomeCoffee](https://teer.id/brianrstp) |
 
 ---
 
